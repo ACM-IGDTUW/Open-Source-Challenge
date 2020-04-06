@@ -7,7 +7,7 @@ Advaya'20 Open Source Challenge
 ```sh 
 git clone https://github.com/<username>/Open-Source-Challenge.git
 ```
-* Inside the project directory, in your terminal  
+* Inside the project directory in your terminal, run  
 ```sh 
 npm install
 ```
