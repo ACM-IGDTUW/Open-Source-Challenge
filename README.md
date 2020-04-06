@@ -2,6 +2,12 @@
 Advaya'20 Open Source Challenge
 
 ## Installation
+
+### Requirements
+* Node.js
+* npm
+
+### Steps
 * Fork the repository
 * Clone the fork into your pc  
 ```sh 
