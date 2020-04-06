@@ -1,0 +1,193 @@
+
+.navbar-default .navbar-brand span{
+  color: #1DCAFF;
+}
+.navbar-default .navbar-brand span{
+  color: #1DCAFF;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #1DCAFF;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+   color: #1DCAFF;
+}
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+  color: #1DCAFF !important;  
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #1DCAFF;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+  background-color: transparent;
+  color: #1DCAFF;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+  color: #1DCAFF;
+}
+.slides-pagination a.current {  
+  background-color: #1dcaff;
+}
+.slider_btn:hover,.slider_btn:focus{  
+  color: #1dcaff;
+  border-color: #1dcaff; 
+}
+.titile:after{ 
+  background-color: #1dcaff;
+}
+.feed_tabs{border-bottom: 2px solid #1dcaff;}
+.feed_tabs li.active a,.feed_tabs li.active a:hover,.feed_tabs li.active a:focus{
+  border:2px solid;
+  color: #1DCAFF !important; 
+  border-color: #1DCAFF #1DCAFF transparent;
+}
+
+.feed_tabs li a:hover{ 
+  background-color: #1dcaff;
+}
+.news_tab .media-body > a :hover{
+  color: #1DCAFF;
+}
+.see_all:hover, .see_all:focus{
+  border-color:#1DCAFF;
+  color: #1DCAFF;  
+}
+.single_notice_pane .slick-prev {
+  background-color: #1dcaff; 
+}
+.single_notice_pane .slick-next {
+  background-color: #1dcaff;  
+}
+.title_area span{  
+  background: none repeat scroll 0 0 #1DCAFF;
+}
+.whyus_icon{
+  background: none repeat scroll 0 0 #1DCAFF;  
+}
+.course_more:hover,.course_more:focus {
+  color: #1DCAFF;    
+}
+.singCourse_title a:hover{  
+  color: #1DCAFF;
+}
+.singCourse_price{
+  color: #1DCAFF;
+}
+.tutors_thumb {
+  background: none repeat scroll 0 0 ;
+}
+.singTutors_content>span{
+  background-color: #1dcaff;
+}
+.tutors_socnav li a:hover,.tutors_socnav li a:focus{
+  color: #1DCAFF;
+  border-color: #1DCAFF;
+}
+.tutors_nav .slick-dots li.slick-active{
+  border-color: #1DCAFF;
+}
+.stsTestimonial_content > p {
+  color: #1dcaff;
+}
+.scrollToTop:hover{
+  background-color: #1DCAFF;  
+}
+.footer_bootomLeft a{
+  color: #1DCAFF;
+}
+.pagination li a{
+  color: #1DCAFF;
+}
+.pagination li a:hover,.pagination li a:focus{
+  background-color: #1DCAFF;
+}
+.single_blog_archive {
+  border-bottom: 3px solid #1dcaff;  
+}
+.blog_title a:hover{
+  color: #1DCAFF;
+}
+.blog_commentbox > p:hover{
+  color: #1DCAFF;
+}
+.blog_commentbox>a:hover{
+  color: #1DCAFF;
+}
+.blog_readmore:hover,.blog_readmore:focus{  
+  color: #1DCAFF;
+}
+.blog_readmore:hover::before,
+.blog_readmore:hover::after,
+.blog_readmore:focus::before,
+.blog_readmore:focus::after {
+  color: #1DCAFF; 
+}
+.tags_nav li a:hover,.tags_nav li a:focus{  
+  background-color: #1DCAFF;
+}
+.single_blog blockquote>span{
+  color: #1DCAFF;
+}
+.single_blog ul li > span {
+  color: #1dcaff;
+}
+.prev_post:hover{
+  color: #1DCAFF;
+  border-color: #1DCAFF; 
+}
+.next_post:hover{
+  color: #1DCAFF;
+  border-color: #1DCAFF;
+}
+.related_post > h2 {
+  color: #1dcaff;
+}
+.events_slider .slick-prev,.events_slider .slick-next {
+  background-color: #1dcaff;
+}
+
+.wp-form-control:focus{
+  border: 1px solid #1DCAFF;
+}
+.wpcf7-submit {
+  border: 1px solid #1dcaff;
+  color: #1dcaff;  
+}
+.wpcf7-submit:hover,.wpcf7-submit:focus{
+  background-color: #1DCAFF;
+  color: #ffffff;
+}
+.footer_widget_nav li a {
+  color: #1dcaff;
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
+  color: #1dcaff !important;  
+}
+.single_sidebar > h2 {
+  background-color: #1dcaff;
+}
+.singlecourse_price {  
+  color: #1DCAFF;
+}
+.course_table thead{
+  background-color: #1DCAFF;
+}
+.related_course > h2 {
+  color: #1dcaff;  
+}
+.single_sidebar > ul > li>a:hover,.single_sidebar > ul > li>a:focus{
+  color: #1DCAFF;
+}
+.news_tab .media-body > a:hover {
+  color: #1DCAFF;
+}
+
+
+/*Header nav color*/
+/*.navbar-default {
+  background-color: #313b3d;
+}*/
+
+/*Footer top color*/
+/*.footer_top {
+  background-color: #1e2223;  
+}*/
