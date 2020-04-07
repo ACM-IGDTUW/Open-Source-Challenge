@@ -29,9 +29,9 @@ node app.js
 * Now go to http://localhost:3000/ on your browser to see it running!
 * To terminate the node, in your terminal press `ctr+C` for Windows or `cmd+c` for Mac.
   
-Every time you make any change to any of the files in the project, you will have to terminate the node and restart the application to see those changes take effect. An alternative to this is installing nodemon which can be done by running
+Every time you make any change to any of the files in the project, you will have to terminate the node and restart the application to see those changes take effect. An alternative to this is installing `nodemon` which can be done by running
 ```sh
 npm install -g nodemon
 ``` 
 in your terminal.  
-Once installed, you can run the application by running the command `nodemon` inside your project directory. Now all you have to do is refresh the localhost in your browser to reflect the changes you have made. The termination process will remain the same.
+Once installed, you can run the application by running the command `nodemon` inside your project directory. `nodemon` is a npm package that keeps track of the changes made into a project code. Everytime the change is on the server side i.e. the backend, the `nodemon` restarts the server and then you refresh. On the other hand, if the change is in the front end, all you have to do is refresh the page. The termination process will remain the same.
