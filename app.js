@@ -61,4 +61,4 @@ app.post("/send", function(req, res) {
 
 app.listen(process.env.PORT || 3000, function() {
 	console.log("Events page running!");
-})
+});
