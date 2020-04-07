@@ -13,12 +13,11 @@ app.set("view engine", "handlebars");
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 
-app.get("/", function(req, res) {
+app.get("/", async function(req, res) {
 	res.render("events.ejs");
 });
 
-app.get("/register", function(req, res) {
-	// res.send("REGISTER");
+app.get("/register", async function(req, res) {
 	res.render("contact");
 });
 
@@ -59,6 +58,4 @@ app.post("/send", function(req, res) {
     });
 });
 
-app.listen(process.env.PORT || 3000, function() {
-	console.log("Events page running!");
-});
+module.exports = app;
