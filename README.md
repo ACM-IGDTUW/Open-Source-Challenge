@@ -35,3 +35,13 @@ npm install -g nodemon
 ``` 
 in your terminal.  
 Once installed, you can run the application by running the command `nodemon` inside your project directory. `nodemon` is a npm package that keeps track of the changes made into a project code. Everytime the change is on the server side i.e. the backend, the `nodemon` restarts the server and then you refresh. On the other hand, if the change is in the front end, all you have to do is refresh the page. The termination process will remain the same.
+
+### Testing
+
+To test that your code does not break the server, run `npm test`.
+
+## Participation
+
+This contest will contain several issues that will come with some allotted points. For each issue, there will be a detailed explaination of what is to be done and how it is to be done. To look through the tasks that are given, please look through the issues in this repository that have an `Open Source Challenge` label. Once you solve an issue and submit a PR regarding the same, points will be allotted to you on the basis of your PR. For detailed instructions look [here](To be added).
+
+For participating in this contest, please go through the [Contribution guidelines](https://github.com/ACM-IGDTUW/Open-Source-Challenge/blob/master/CONTRIBUTION.md) in order to get a gist of how to submit a PR. Once you have read that, you can start looking through the issues right away!
