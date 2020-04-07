@@ -2,6 +2,8 @@ This article will give a brief of how the submissions for this challenge will be
 
 The Issues in this repo that have the label `Open Source Challenge` are the issues that you all will be working to solve. The issues will further give a step by step explaination of what is expected to be done, but they will all follow the same format for submission of a pull request as given here.
 
+You are required to have installed git to move any further. You should also look through the installations process in the [README.md](https://github.com/ACM-IGDTUW/Open-Source-Challenge/blob/master/README.md) to see how the code is to be run locally.
+
 The steps are:
 
 * Create a fork of this repo. It is the button on top right of the repository.
