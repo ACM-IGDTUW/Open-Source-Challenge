@@ -13,7 +13,7 @@ app.set("view engine", "handlebars");
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 
-app.get("/", async function(req, res) {
+app.get("/", async function( , res) {
 	res.render("events.ejs");
 });
 
