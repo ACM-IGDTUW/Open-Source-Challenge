@@ -2,10 +2,12 @@
   "name": "acm",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "test": "jest",
+    "start": "node index.js",
+    "testwatch": "jest --watchAll",
+    "test:watch": "jest --watch"
   },
   "author": "",
   "license": "ISC",
@@ -22,5 +24,9 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.0.1"
+  },
+  "devDependencies": {
+    "jest": "^25.2.7",
+    "supertest": "^4.0.2"
   }
 }
