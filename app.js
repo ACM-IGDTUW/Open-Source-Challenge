@@ -13,8 +13,9 @@ app.set("view engine", "handlebars");
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 
-app.get("/", function(, res) {
+app.get("/", function(req, res) {
 	res.render("events.ejs");
+	
 });
 
 app.get("/register", function(req, res) {
