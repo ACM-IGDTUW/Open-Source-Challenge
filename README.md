@@ -24,7 +24,7 @@ npm install
 This step installs all the dependencies into a new folder `node_modules`.
 * Once all the dependencies are installed successfully, run
 ```sh
-node app.js
+node index.js
 ```
 * Now go to http://localhost:3000/ on your browser to see it running!
 * To terminate the node, in your terminal press `ctr+C` for Windows or `cmd+c` for Mac.
