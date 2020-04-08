@@ -7,4 +7,5 @@ For any issue, please create an issue in this repository and we will get back to
 
 This contest will contain several issues that will come with some allotted points. For each issue, there will be a detailed explaination of what is to be done and how it is to be done. To look through the tasks that are given, please look through the issues in this repository that have an `Open Source Challenge` label. Once you solve an issue and submit a PR regarding the same, points will be allotted to you on the basis of your PR. For detailed instructions look [here](To be added).
 
-For participating in this contest, please go through the [Contribution guidelines](https://github.com/ACM-IGDTUW/Open-Source-Challenge/blob/master/CONTRIBUTION.md) in order to get a gist of how to submit a PR. Once you have read that, you can start looking through the issues right away!
+For participating in this contest, please go through the [Contribution guidelines](https://github.com/ACM-IGDTUW/Open-Source-Challenge/blob/master/CONTRIBUTION.md) in order to get a gist of how to submit a PR. Once you have read that, you can start looking through the issues right away!  
+While you're at it, it would also help to go through the wiki once.
