@@ -15,4 +15,7 @@ For participating in this contest, register at https://bit.ly/3c3lNQY and go thr
     
 -   Any submission after the deadline of the task, that will be 12 pm of the next day from the day the task was published, will result in the decrement of the score by 1.
     
--   To ask for help, feel free to open an issue on GitHub
+-   To ask for help, feel free to open an issue in this repository.
+
+
+### Happy Contributing!
