@@ -2,9 +2,47 @@ This article will give a brief of how the submissions for this challenge will be
 
 The Issues in this repo that have the label `Open Source Challenge` are the issues that you all will be working to solve. The issues will further give a step by step explaination of what is expected to be done, but they will all follow the same format for submission of a pull request as given here.
 
-You are required to have installed git to move any further. You should also look through the installations process in the [README.md](https://github.com/ACM-IGDTUW/Open-Source-Challenge/blob/master/README.md) to see how the code is to be run locally.
+You are required to have installed git to move any further. You should first install the code and run it locally to move any further.
 
-The steps are:
+## Installation
+
+### Requirements
+* Node.js
+* npm
+
+You can follow this [article](https://phoenixnap.com/kb/install-node-js-npm-on-windows) for installation in Windows or this [article](https://www.taniarascia.com/how-to-install-and-use-node-js-and-npm-mac-and-windows/#installation-on-a-mac-or-linux) for Mac or Linux. These articles provide a guide for installation of both Node.js and npm in the respective OS environments.
+
+### Steps
+* Fork the repository
+* Clone the fork into your pc  
+```sh 
+git clone https://github.com/<username>/Open-Source-Challenge.git
+```
+* Inside the project directory in your terminal, run  
+```sh 
+npm install
+```
+This step installs all the dependencies into a new folder `node_modules`.
+* Once all the dependencies are installed successfully, run
+```sh
+node index.js
+```
+This command is required to start the server. You can also run `npm start` instead.
+* Now go to http://localhost:3000/ on your browser to see it running!
+* To terminate the node, in your terminal press `ctr+C` for Windows or `cmd+c` for Mac.
+  
+Every time you make any change to any of the files in the project, you will have to terminate the node and restart the application to see those changes take effect. An alternative to this is installing `nodemon` which can be done by running
+```sh
+npm install -g nodemon
+``` 
+in your terminal.  
+Once installed, you can run the application by running the command `nodemon` inside your project directory. `nodemon` is a npm package that keeps track of the changes made into a project code. Everytime the change is on the server side i.e. the backend, the `nodemon` restarts the server and then you refresh. On the other hand, if the change is in the front end, all you have to do is refresh the page. The termination process will remain the same.
+
+### Testing
+
+To test that your code does not break the server, run `npm test`.
+
+## Creating a Pull Request
 
 * Create a fork of this repo. It is the button on top right of the repository.
 * Now make a local clone of this fork in your computer. You can do this by running:
