@@ -3,7 +3,7 @@ Advaya'20 brings to you the Open Source Challenge. This will be a series of task
 
 For any issue, please create an issue in this repository and we will get back to you soon!
 
-## Installation
+# Installation
 
 ### Requirements
 * Node.js
