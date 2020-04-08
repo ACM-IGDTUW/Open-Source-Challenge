@@ -18,4 +18,5 @@ For participating in this contest, register at https://bit.ly/3c3lNQY and go thr
 -   To ask for help, feel free to open an issue in this repository.
 
 
-### Happy Contributing!
+
+*Happy Contributing!*
