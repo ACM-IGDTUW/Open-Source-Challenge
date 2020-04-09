@@ -1,6 +1,6 @@
 # The Open-Source-Challenge 
 
-![Poster](public/img/Poster.jpeg)
+<img src="public/img/Poster.jpeg" height="500" width="500" >
 
 Advaya'20 brings to you The Open Source Challenge. This will be a series of tasks provided to the participants to help them learn more about the ways of Open Source! Each task will have allotted points which will be awarded to all the participants that successfully complete the task. Everyday a new task will be added. The participant with the highest points by the end of the Advaya'20 Tech Week will be the winner and will earn certificates and exciting prizes. 
 
