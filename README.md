@@ -21,6 +21,8 @@ For participating in this contest, register [here](https://bit.ly/3c3lNQY) and g
     
 -   To ask for help, feel free to open a new issue in this repository.
 
-
-
 *Happy Contributing!*
+
+_____________________________________________________________________________________
+
+![image](https://github.com/ACM-IGDTUW/Open-Source-Challenge/blob/master/public/img/2020-04-09%20(2).png)
