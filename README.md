@@ -15,7 +15,7 @@ For participating in this contest, register [here](https://bit.ly/3c3lNQY) and g
     
 -   Any submission after the deadline of the task, that will be 12 pm of the next day from the day the task was published, will result in the decrement of the score by 1.
 
--   For tasks that involve no coding, all the solutions must be posted in the comment ssection of that issue. 
+-   For tasks that involve no coding, all the solutions must be posted in the comment section of that issue. 
 
 -   No questions or doubts should be asked in the comment section of a task issue, i.e. an issue which has the label `Open Source Challenge`.
     
