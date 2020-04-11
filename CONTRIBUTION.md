@@ -33,7 +33,7 @@ This step installs all the dependencies into a new folder `node_modules`.
 ```sh
 node index.js
 ```
-This command is required to start the server. You can also run `npm start` instead.
+This command is required to start the server. You can also run `npm start` instead. On successful start of the server, you should see a message `Events page running! Go to http://localhost:3000/ in your browser` in your terminal.
 
 * Now go to http://localhost:3000/ on your browser to see it running!
 
