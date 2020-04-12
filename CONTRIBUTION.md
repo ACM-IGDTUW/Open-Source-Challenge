@@ -95,4 +95,5 @@ Note that if its your first time committing, you will be asked to first config g
 
 Note: In your pull request, please mention the issue it is made for. For e.g. if the issue number was #5 then add a line that says `for #5` in your PR description. This will help us keep track of what your pull request is for.
 
+To get some understanding of the current file structure, you can look at the [Architecture](https://github.com/ACM-IGDTUW/Open-Source-Challenge/wiki/Architecture) wiki.  
 If you come across any problems in any of the steps above, feel free to create an issue here so we can help you out! This article is made so detailed to help out all the new comers to this communtiy! We hope you have a good learning experience.
