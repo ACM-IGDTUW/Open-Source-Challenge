@@ -14,6 +14,10 @@ For participating in this contest, register [here](https://bit.ly/3c3lNQY) and g
 
 ## Rules
 
+-   The event is open for all university students.
+
+-   Anyone who hasn't registered for the challenge won't be eligible for certificate and prizes.
+
 -   Each task will be given 24 hours to complete. 
     
 -   Any submission after the deadline of the task, that will be 12 pm of the next day from the day the task was published, will result in the decrement of the score by 1.
