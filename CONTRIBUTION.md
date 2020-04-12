@@ -18,10 +18,13 @@ You can follow this [article](https://phoenixnap.com/kb/install-node-js-npm-on-w
 
 * Fork the repository
 
-* Clone the fork into your pc  
+* Clone the fork into your pc.  
+First move to the directory where you would like to clone the repository. You can do this by running `cd path/to/where-you-want-to-go`. Then run the following command:  
 ```sh 
 git clone https://github.com/<username>/Open-Source-Challenge.git
 ```
+
+* Enter your project directory using `cd Open-Source-Challenge`.  
 
 * Inside the project directory in your terminal, run  
 ```sh 
