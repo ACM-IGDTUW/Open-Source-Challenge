@@ -16,7 +16,7 @@ For participating in this contest, register [here](https://bit.ly/3c3lNQY) and g
 
 -   The event is open for all university students.
 
--   Anyone who hasn't registered for the challenge won't be eligible for certificate and prizes.
+-   Anyone who hasn't registered for the challenge won't be eligible for certificate and prizes. You can register [here](https://forms.gle/gPJCGdnrufyX2KvW7).
 
 -   Each task will be given 24 hours to complete. 
     
