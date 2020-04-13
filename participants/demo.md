@@ -5,9 +5,9 @@ The name of the markdown file should be their own name. That is `<name>.md`
 
 The following contents should be provided:
 
-* Name:
-* Github username:
-* University:
-* Year:
-* Branch:
+* Name:Shruti Mishra
+* Github username: mishra-shruti96
+* University: IGDTUW
+* Year: 2nd
+* Branch: MCA(IT)
 
