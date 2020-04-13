@@ -10,8 +10,4 @@ The following contents should be provided:
 * University:
 * Year:
 * Branch:
-* Image of College ID:
-```
-Note: College ID is being asked for certification and prize purposes. 
-It will be used to authenticate your participation.
-```
+
