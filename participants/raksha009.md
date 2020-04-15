@@ -1,4 +1,4 @@
-##### #Name: Raksha Jain
+##### Name: Raksha Jain
 
 ###### GitHub username: [raksha009](https://github.com/raksha009)
 
