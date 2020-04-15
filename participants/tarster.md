@@ -1,8 +1,8 @@
-Name: Tarun
-GitHub username: tarster
-University: Guru Gobind Singh Indraprastha University
-Year: 3rd 
-Branch: I&CE
+Name: Tarun<br />
+GitHub username: tarster <br />
+University: Guru Gobind Singh Indraprastha University <br />
+Year: 3rd <br />
+Branch: I&CE<br />
 
 # Welcome to Open Source!
 
