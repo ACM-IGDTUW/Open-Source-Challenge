@@ -1,9 +1,15 @@
 # Introduction
+
 Name : Simranjeet Singh
+
 GitHub username: SjSingh101
+
 University: Netaji Subhas University Of Technology
+
 Year: 2nd
+
 Branch: ECE
+
 ***
 Follow me on:  [linkedin](https://www.linkedin.com/in/simran-jeet-singh) [Github](https://github.com/Sjsingh101/)
 
