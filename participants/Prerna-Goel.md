@@ -14,5 +14,6 @@ Branch: IT -->
 List of tasks to be done:
 <ul>
 <li><strike>Task1 : Set up the project</strike></li>
-<li><strike>Task2 : Make your first PR</strike>/li>
+<li><strike>Task2 : Make your first PR</strike></li>
 <li>Task3 : Some markdown styling </li>
+</ul>
