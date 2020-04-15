@@ -11,7 +11,7 @@ Intersted field of Working: ***AI and Robotics*** :robot:
 
 ---
 ### What I am Doing Now:
-Well I'm currently engaged in a competetion conducted by **ACM-IGDTUW**.  Our mentors are [Lisa Chandra](https://github.com/lisa761) and [Soumya Sharma]("https://github.com/soumyaa1804"). It is towards learning github and open source contribution. So far what I did is:
+Well I'm currently engaged in a competetion conducted by **ACM-IGDTUW**.  Our mentors are [Lisa Chandra](https://github.com/lisa761) and [Soumya Sharma](https://github.com/soumyaa1804). It is towards learning github and open source contribution. So far what I did is:
 ```sequence
 Task1: learned setting up project
 Task2: learned creating a Pull Request
