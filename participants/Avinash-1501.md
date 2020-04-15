@@ -34,6 +34,6 @@ Not fixed or designed a perfect path but I would like to work in the field of **
 
 
 >#### Contact:
->E-Mail: avinashgundabathina@gmail.com
->[LinkedIn](https://www.linkedin.com/in/avinash-gundabathina-10846b140/)
+>E-Mail: avinashgundabathina@gmail.com  
+>[LinkedIn](https://www.linkedin.com/in/avinash-gundabathina-10846b140/)  
 >[Instagram](https://instagram.com/avinash__gundabathina)
