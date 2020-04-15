@@ -30,3 +30,12 @@ For participating in this contest, register [here](https://bit.ly/3c3lNQY) and g
 
 *Happy Contributing!*
 
+### My_Experience
+I am loving solving these daily tasks and really learning a lot from these.
+
+Thankyou *Acm Igdtuw* for organsing this event. 
+
+
+1. Task 1 made me learn some basics of github which I was not clear about initially.
+2. In task 2 I learned how to create a PR.
+3. Here in task 3 I am learning some markdown file editing features.
