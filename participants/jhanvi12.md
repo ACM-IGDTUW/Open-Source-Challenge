@@ -15,13 +15,13 @@
 alt="Related Video" width="240" height="180" border="10" /></a>
 
 <u>**Table Bacteria Classification in details**</u>
-```
+
 | Class            | Drugs         | Indication  |
 | -------------    |---------------| ------------|
 | Penicillin       | Penicilin-g   | Weight loss |
 | Aminopenicillins | Ampicillin    | Weight loss |
 | Antipseudomonal  | Carbenicillin | Insomnia    |
-```
+
 ~~Some more Classification~~  <u>Some Other Bacterias</u>
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon24.png "These are Hazardous Bacteria")
