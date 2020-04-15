@@ -1,15 +1,18 @@
-<h1>Name: Yitik Kawatra</h1>
-<h2>GitHub username:[yitik-kawatra](https://https://github.com/yitik-kawatra/
-</h2>
-<div>
-<h3>
-<i>
-<ul>
-<li>*University: GGSIPU </li>
-<li>Year: 2nd </li>
-<li>Branch: ECE *</li>
-</i>
-</h3>
-</ul>
-</div>
+# Name: Yitik Kawatra
+## GitHub username:[yitik-kawatra](https://github.com/yitik-kawatra)
+
++ University: GGSIPU 
+ 
++ Year: 2nd 
+
++ Branch: ECE 
+
+###  *My Interests:* 
+
++ Open Source Development
+
++ Web Development
+
++ Competitive Programming
+
 
