@@ -2,12 +2,12 @@
 ### Hi! My name is Avinash. I'm a **2nd** year Undergraduate student in **ECE** at **RGUKT**. I'm an ***AI Enthusiast***. 
 ---
 ### :page_with_curl:My Details:
-Name: ***Avinash Gundabathina***  :boy:
-GitHub Username: *[Avinash-1501](https://github.com/Avinash-1501)*
-University:*[Rajiv Gandhi University Of Knowledge Technologies](https://rguktn.ac.in)* :school:
-Year:  :two:
-Branch:***ECE*** :computer: :satellite: :iphone:
-Intersted field of Working: ***AI and Robotics*** :robot:
+Name: ***Avinash Gundabathina***  :boy:  
+GitHub Username: *[Avinash-1501](https://github.com/Avinash-1501)*  
+University:*[Rajiv Gandhi University Of Knowledge Technologies](https://rguktn.ac.in)* :school:  
+Year:  :two:  
+Branch:***ECE*** :computer: :satellite: :iphone:  
+Intersted field of Working: ***AI and Robotics*** :robot:  
 
 ---
 ### What I am Doing Now:
