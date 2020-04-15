@@ -3,10 +3,12 @@
 >  **A deep-learning model identifies a powerful new drug that can kill many species of antibiotic-resistant bacteria**
 > [Science News]([https://www.sciencedaily.com/releases/2020/02/200220141748.htm](https://www.sciencedaily.com/releases/2020/02/200220141748.htm))
 
->  *Date* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     :  &nbsp;&nbsp; &nbsp;&nbsp;         `February 20, 2020`
->  *Source*  &nbsp;&nbsp;  : &nbsp; &nbsp; &nbsp;   ` Massachusetts Institute of Technology `
+> *Date* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     :  &nbsp;&nbsp; &nbsp;&nbsp;         `February 20, 2020`
+
+> *Source*  &nbsp;&nbsp;  : &nbsp; &nbsp; &nbsp;   ` Massachusetts Institute of Technology `
+
 > *Summary*:   &nbsp; &nbsp; Using a machine-learning algorithm, researchers      have identified a powerful new antibiotic compound. In laboratory tests, the drug killed many of the world's most problematic disease-causing bacteria, including some strains that are resistant to all known antibiotics. It also cleared infections in two different mouse models.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>***Full Story***</u>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>***Full Story***</u>
 
 "The computer model, which can screen more than a hundred million chemical compounds in a matter of days, is designed to pick out potential antibiotics that kill bacteria using different mechanisms than those of existing drugs."
 
