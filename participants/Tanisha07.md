@@ -29,9 +29,6 @@ ___________________________________
 ## Projects
 
 
-S_No | Name
---- | ---
-
 | S_No| Name
 | :-------------: |:-------------:|
 | 1   | [Mobile Game](https://github.com/Tanisha07/CatchTheGauntlet "Game Link Github")|
