@@ -1,10 +1,15 @@
-Name: SANJIT ANAND
-GitHub username: sanjitcodes
-University: NIT, Surat
-Year: 1st
-Branch: Electronics and Communication Engineering
+# Introduction 
+##Name: SANJIT ANAND
 
-## I am from Amritsar, Punjab.
+##GitHub username: sanjitcodes
+
+##University: NIT, Surat
+
+##Year: 1st
+
+##Branch: Electronics and Communication Engineering
+
+### I am from Amritsar, Punjab.
 
 # **HOBBIES**
 1. Lawn Tennis
@@ -14,7 +19,8 @@ Branch: Electronics and Communication Engineering
 
 # **EDUCATION**
 
-Class 1-12 -- Essar International School
-B.Tech     -- NIT, Surat
+1. Class 1-12 -- Essar International School
+
+2. B.Tech     -- NIT, Surat
 
 
