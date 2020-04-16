@@ -1,13 +1,13 @@
 # Introduction 
-##Name: SANJIT ANAND
+## Name: SANJIT ANAND
 
-##GitHub username: sanjitcodes
+## GitHub username: sanjitcodes
 
-##University: NIT, Surat
+## University: NIT, Surat
 
-##Year: 1st
+## Year: 1st
 
-##Branch: Electronics and Communication Engineering
+## Branch: Electronics and Communication Engineering
 
 ### I am from Amritsar, Punjab.
 
