@@ -9,7 +9,6 @@ Year: 2
 Branch: CSE
 
 
-
 ### My_Experience
 I am loving solving these daily tasks and really learning a lot from these.
 
@@ -29,4 +28,3 @@ Thankyou *Acm Igdtuw* for organsing this event.
 2.Selected for codess chapter 2020 first round.
 
 3.Selected for Codon fest mentorship program.
-
