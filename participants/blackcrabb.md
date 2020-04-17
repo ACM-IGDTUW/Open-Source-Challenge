@@ -2,11 +2,11 @@
 
 ***
 
-**Name**: Niyati
-__**GitHub username**: blackcrabb
-__**University**: Dyal Singh College
-__**Year**: 2
-__**Branch**: CSE
+* **Name**: Niyati.
+* **GitHub username**: blackcrab
+* **University**: Dyal Singh College
+* **Year**: 2
+* **Branch**: CSE
 
 ## Sitcoms : 
 
