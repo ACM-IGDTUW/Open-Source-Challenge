@@ -3,10 +3,10 @@
 ***
 
 **Name**: Niyati
-..**GitHub username**: blackcrabb
-..**University**: Dyal Singh College
-..**Year**: 2
-..**Branch**: CSE
+__**GitHub username**: blackcrabb
+__**University**: Dyal Singh College
+__**Year**: 2
+__**Branch**: CSE
 
 ## Sitcoms : 
 
