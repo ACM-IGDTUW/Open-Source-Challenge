@@ -2,8 +2,13 @@ var express = require("express"),
 	bodyParser	= require("body-parser"),
 	exphbs = require("express-handlebars"),
 	nodemailer = require("nodemailer"),
-	app = express();
+	app = express(),
+	helmet = require('helmet'),
+	compression = require('compression');
 
+
+app.use(compression());
+app.use(helmet());
 app.use(express.static(__dirname + "/public"));
 // app.use(express.static(path.join(__dirname,"public")));
 
