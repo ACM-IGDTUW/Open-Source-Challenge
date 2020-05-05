@@ -1121,6 +1121,7 @@ div[data-dimension] {
   -o-transition: all 1s ease; /* Opera */
   transition: all 1s ease;
   transform: translate3d(0px, 0px, 0px);
+  filter: brightness(0.75);
 }
 .blog_img:hover img {
   opacity: 0.8;
@@ -1129,6 +1130,7 @@ div[data-dimension] {
   -ms-transform:scale(1.1); /* IE 9 */
   -o-transform:scale(1.1); /* Opera */
   transform:scale(1.1);
+  filter: brightness(1);
 }
 .blog_title {
   display: block;
