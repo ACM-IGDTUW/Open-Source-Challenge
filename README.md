@@ -6,6 +6,8 @@
 
 For any queries, please feel free open an issue in this repository and we will get back to you soon!
 
+**Event Coordiantors: [Lisa Chandra](https://github.com/lisa761) and [Soumya Sharma](https://github.com/soumyaa1804)**
+
 ## Participation
 
 This contest will contain several issues that will come with some allotted points. Each day at 12 pm an issue will be published that will contain a detailed explanation of the task and the guidlines to solve it. To look through the tasks that are given, please look through the issues in this repository that have an `Open Source Challenge` label. Once you solve an issue as guided in the task description, points will be allotted to you out of 8 on the basis of how well you adhere to the guidlines of the task.
