@@ -6,7 +6,7 @@
 
 For any queries, please feel free open an issue in this repository and we will get back to you soon!
 
-**Event Coordiantors: [Lisa Chandra](https://github.com/lisa761) and [Soumya Sharma](https://github.com/soumyaa1804)**
+**Event Coordinators: [Lisa Chandra](https://github.com/lisa761) and [Soumya Sharma](https://github.com/soumyaa1804)**
 
 ## Participation
 
